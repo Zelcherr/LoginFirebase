@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginFirebase</string>
+    <string name="btn_inicio">Iniciar Sesion</string>
+    <string name="btn_registro">Registrarse</string>
+</resources>
